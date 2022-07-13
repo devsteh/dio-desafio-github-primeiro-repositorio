@@ -1,5 +1,0 @@
-Tipos de arquivos no Git:
-Untracked: Arquivos não reconhecidos pelo git
-Unmodifed: Aquivos ainda não modificados
-Modified: Arquivos que foram modificados
-Staged: Área de espera para arquivo ser usado, se preparando para fazer parte de um commit 

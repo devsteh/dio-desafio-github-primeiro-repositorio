@@ -1,0 +1,21 @@
+Tipos de arquivos no Git:
+
+Untracked: Arquivos não reconhecidos pelo git
+Unmodifed: Aquivos ainda não modificados
+Modified: Arquivos que foram modificados
+Staged: Área de espera para arquivo ser usado, se preparando para fazer parte de um commit 
+
+*Comandos importantes para uso:*
+
+ - git init: Usado para iniciar o repositório na pasta onde o projeto será criado.
+ - git add * : Usado para passar todas as alterações para a Staging Area
+ - git add . : Também usado para passar todas as alterações para a Staging Area
+ - git commit -m "mensagem": Realiza o commit do arquivo
+ - git status: Retorna o estado do arquivo
+ 
+ *Como clonar um repositório?*
+ 
+ - Via HTTPS através do comando "git clone <link do repositório>
+ - Via SSH com o comando "git clone <link ssh>
+ 
+ 
